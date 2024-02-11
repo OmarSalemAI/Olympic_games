@@ -1,21 +1,21 @@
 # Olympic_games
-Data Analysis Project Using Python, SQL and Power BI
+# Data Analysis Project Using Python, SQL and Power BI
 
-#Olympic Games 120 Year Analysis
-#This project aims to analyze 120 years of Olympic Games data using Python for exploratory data analysis (EDA), SQL for answering specific problem statements, and Power BI for visualization.
+# Olympic Games 120 Year Analysis
+# This project aims to analyze 120 years of Olympic Games data using Python for exploratory data analysis (EDA), SQL for answering specific problem statements, and Power BI for visualization.
 
-##Overview
+## Overview
 The Olympic Games represent a significant international event spanning over a century. This project delves into the data from various Olympic Games, exploring trends, patterns, and insights to understand the evolution and dynamics of this global sporting event.
 
-##Tools Used
+## Tools Used
 Python: Utilized for exploratory data analysis, data manipulation, and initial preprocessing of the Olympic Games dataset.
 SQL: Employed for querying the dataset to address specific problem statements and extract relevant information.
 Power BI: Utilized for creating interactive visualizations, enabling comprehensive exploration of the analyzed data.
 Dataset
 The dataset used in this project comprises comprehensive information on various aspects of the Olympic Games, including details about athletes, events, countries, and medals won. It covers 120 years of Olympic history, offering a rich source of data for analysis.
 
-##Project Structure
-###The project is organized as follows:
+## Project Structure
+### The project is organized as follows:
 
 Data Collection: Obtaining the Olympic Games dataset from reliable sources.
 Exploratory Data Analysis (EDA): Using Python, exploring the dataset to understand its structure, identify patterns, and gain initial insights.
@@ -28,8 +28,8 @@ Provide visually compelling representations of the analyzed data through interac
 Contributions
 Contributions to this project, whether through code enhancements, bug fixes, or additional analysis, are welcome. Feel free to submit pull requests or reach out with suggestions for improvements.
 
-##License
+## License
 This project is licensed under the MIT License, allowing for open collaboration and use of the codebase.
 
-##Acknowledgments
+## Acknowledgments
 We acknowledge the invaluable contribution of the creators of the Olympic Games dataset and the open-source community for their tools and libraries that facilitated this analysis.
