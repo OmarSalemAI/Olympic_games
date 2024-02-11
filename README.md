@@ -1,8 +1,8 @@
 # Olympic_games
-# Data Analysis Project Using Python, SQL and Power BI
+Data Analysis Project Using Python, SQL and Power BI
 
 # Olympic Games 120 Year Analysis
-# This project aims to analyze 120 years of Olympic Games data using Python for exploratory data analysis (EDA), SQL for answering specific problem statements, and Power BI for visualization.
+## This project aims to analyze 120 years of Olympic Games data using Python for exploratory data analysis (EDA), SQL for answering specific problem statements, and Power BI for visualization.
 
 ## Overview
 The Olympic Games represent a significant international event spanning over a century. This project delves into the data from various Olympic Games, exploring trends, patterns, and insights to understand the evolution and dynamics of this global sporting event.
